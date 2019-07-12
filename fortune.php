@@ -23,7 +23,9 @@ $date = date("Y年m月d日");
     <title>Document</title>
 </head>
 <body>
-    <p class="text-center"><?php echo($date); ?>の運勢は・・・</p>
-    <h1 class="text-center"><?php echo($fortune); ?>です！</h1>
+    <div class="container">
+        <p class="text-center">あなたの<?php echo($date); ?>の運勢は・・・</p>
+        <h1 class="text-center"><?php echo($fortune); ?>です！</h1>
+    </div>
 </body>
 </html>
