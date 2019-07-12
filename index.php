@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="text-center">おみくじへようこそ！</h1>
+        <h1>おみくじへようこそ！</h1>
         <a href="fortune.php" class="btn btn-primary">Let's start!!</a>
     </div>
 </body>
