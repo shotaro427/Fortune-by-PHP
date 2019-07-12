@@ -14,11 +14,11 @@ h1 {
     height: 60px;
     font-size: 22px;
     font-weight: 700;
-    line-height: 70px;
-    box-shadow: 0 10px 0 #000099;
+    line-height: 60px;
+    box-shadow: 0 7px 0 #000099;
     border-radius: 10px;
 }
-a:active {
+.btn:active {
     box-shadow: none;
-    transform: translateY(10px);
+    transform: translateY(7px);
 }
