@@ -1,0 +1,21 @@
+.container {
+    text-emphasis: center;
+}
+
+h1 {
+    font-weight: 700px;
+}
+
+a {
+    padding: 0;
+    width: 150px;
+    height: 60px;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 60px;
+    box-shadow: 0 10px 0 #000099;
+    border-radius: 10px;
+}
+a:active {
+    box-shadow: none;
+}
