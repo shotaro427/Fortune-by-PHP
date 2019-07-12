@@ -15,10 +15,10 @@ a {
     font-size: 22px;
     font-weight: 700;
     line-height: 60px;
-    box-shadow: 0 3px 0 #000099;
+    box-shadow: 0 10px 0 #000099;
     border-radius: 10px;
 }
 a:active {
     box-shadow: none;
-    margin: 13px auto 7px;
+    transform: translateY(10px);
 }
