@@ -6,7 +6,7 @@ h1 {
     font-weight: 700px;
 }
 
-a {
+.btn {
     display: block;
     padding: 0;
     margin: 10px auto;
@@ -14,7 +14,7 @@ a {
     height: 60px;
     font-size: 22px;
     font-weight: 700;
-    line-height: 60px;
+    line-height: 70px;
     box-shadow: 0 10px 0 #000099;
     border-radius: 10px;
 }
