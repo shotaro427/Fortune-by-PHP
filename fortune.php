@@ -21,7 +21,7 @@ $date = date("Y年m月d日");
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
-    <title>Document</title>
+    <title>おみくじ</title>
 </head>
 <body>
     <div class="container">
