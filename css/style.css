@@ -4,6 +4,7 @@
 
 h1 {
     font-weight: 700px;
+    margin: 50px;
 }
 
 .btn {
@@ -15,13 +16,13 @@ h1 {
     font-size: 22px;
     font-weight: 700;
     line-height: 60px;
-    box-shadow: 0 7px 0 #000099;
+    box-shadow: 0 5px 0 #000099;
     border-radius: 10px;
     border-bottom: solid 4px #007bff;
     text-decoration: none;
 }
 .btn:active {
     box-shadow: none;
-    transform: translateY(7px);
+    transform: translateY(5px);
     border-bottom: none;
 }
